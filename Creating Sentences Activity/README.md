@@ -1,2 +1,1 @@
 # Creating Sentences Activity
-what
